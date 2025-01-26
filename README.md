@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning C# language, Unity 3D and now **GitHub**!
-- 🤔 I’m looking for help with... **someone**?
+- 🤔 I’m looking for help with... **someone who can teach me for making games!**
 - 📫 How to reach me: yudin.ajdar20@gmail.com
 - ⚡ Fun fact: cats always falls on *paws* :3 🐱
 - >sneaky squeaky?
